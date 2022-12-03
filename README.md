@@ -5,8 +5,9 @@ https://adventofcode.com/2022
 
 ### Progress ⭐(4 / 50)
 
-| Day                          | Status | Solution                                                     |
-| ---------------------------- | ------ | ------------------------------------------------------------ |
-| ☃️ Day 1: Calorie Counting    | ⭐⭐     | ❄️ [Day 1](https://github.com/kbojarowska/advent-of-code-2022/tree/main/day1) |
-| ☃️ Day 2: Rock Paper Scissors | ⭐⭐     | ❄️ [Day 2](https://github.com/kbojarowska/advent-of-code-2022/tree/main/day2) |
+| Day                              | Status | Solution                                                     |
+| -------------------------------- | ------ | ------------------------------------------------------------ |
+| ☃️ Day 1: Calorie Counting        | ⭐⭐     | ❄️ [Day 1](https://github.com/kbojarowska/advent-of-code-2022/tree/main/day1) |
+| ☃️ Day 2: Rock Paper Scissors     | ⭐⭐     | ❄️ [Day 2](https://github.com/kbojarowska/advent-of-code-2022/tree/main/day2) |
+| ☃️ Day 3: Rucksack Reorganization | ⭐⭐     | ❄️ [Day 3](https://github.com/kbojarowska/advent-of-code-2022/tree/main/day3) |
 
