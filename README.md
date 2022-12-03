@@ -3,7 +3,7 @@ Advent of code 2022 solutions in python
 
 https://adventofcode.com/2022
 
-### Progress ⭐(4 / 50)
+### Progress ⭐(6 / 50)
 
 | Day                              | Status | Solution                                                     |
 | -------------------------------- | ------ | ------------------------------------------------------------ |
